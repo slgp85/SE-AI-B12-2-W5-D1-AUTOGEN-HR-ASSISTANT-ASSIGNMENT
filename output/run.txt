@@ -1,0 +1,9 @@
+---------- TextMessage (user) ----------
+Write a job description for a Junior Python Developer. Output exactly 6 lines: line 1 is the title 'Junior Python Developer', then exactly 5 numbered lines (1. to 5.), each one short sentence covering: responsibilities, core skills, nice-to-have skills, experience/education, and what we offer. No intro, no closing text, no markdown.
+---------- TextMessage (hr_assistant) ----------
+Junior Python Developer  
+1. Assist in the development and maintenance of Python applications.  
+2. Proficient in Python and familiar with web frameworks like Django or Flask.  
+3. Knowledge of front-end technologies such as HTML and JavaScript is a plus.  
+4. Recent graduates in Computer Science or related fields are encouraged to apply.  
+5. We offer competitive salary, professional development opportunities, and a collaborative work environment.
